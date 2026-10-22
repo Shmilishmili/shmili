@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="544" height="75" viewBox="0 0 544 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-4" y="-4" width="552" height="83"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2px);clip-path:url(#bgblur_0_0_25_clip_path);height:100%;width:100%"></div></foreignObject><path id="Union" data-figma-bg-blur-radius="4" d="M544 0V0.00585938C543.833 0.00349536 543.666 4.25215e-07 543.499 0C527.347 9.06121e-05 513.784 11.0674 510 26.0215V40C510 59.3297 494.33 74.9998 475 75H35C15.67 75 8.05375e-08 59.33 0 40V35C0 15.67 15.67 0 35 0H544Z" fill="#0D1B3F"/>
+<defs>
+<clipPath id="bgblur_0_0_25_clip_path" transform="translate(4 4)"><path d="M544 0V0.00585938C543.833 0.00349536 543.666 4.25215e-07 543.499 0C527.347 9.06121e-05 513.784 11.0674 510 26.0215V40C510 59.3297 494.33 74.9998 475 75H35C15.67 75 8.05375e-08 59.33 0 40V35C0 15.67 15.67 0 35 0H544Z"/>
+</clipPath></defs>
+</svg>
